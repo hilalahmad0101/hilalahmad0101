@@ -50,8 +50,8 @@ I'm Hilal Ahmad, Fullstack developer  from <b>Pakistan<b>.
 1. <a href="https://onlinebazar.tauseedzaman.com/">Online Bazar - Ecommarce webiste single vendor</a> </br>
 2. <a href="https://gym.tauseedzaman.com/">Gym management system</a></br>
 3. <a href="https://classifiedads.tauseedzaman.com/">Classified ads website - listed to ads</a></br>
-4. <a href="https://biblealert.org/">Bible alert - show quotes from bible</a></br>
-5. <a href="https://cone24.net/"></a>Cone24 - website and app - Ecommarce website multi vendor </br>
+4. <a href="https://biblealert.org/">Bible alert - website and app - show quotes from bible</a></br>
+5. <a href="https://cone24.net/">Cone24 - website and app - Ecommarce website multi vendor </a></br>
 6. <a href="https://wholesale.tauseedzaman.com">Wholesale - Ecommarce website b2b</a></br>
 7. <a href="https://codhubb.com/">Codhubb - web development agency website</a></br>
 8. <a href="https://neurafin.tauseedzaman.com/">Neurafin - Middle person to send money from on bank to another</a></br>
