@@ -47,14 +47,22 @@ I'm Hilal Ahmad, Fullstack developer  from <b>Pakistan<b>.
 
 ## Website which is build for my clients
 
-1. <a href="https://onlinebazar.tauseedzaman.com/">Online Bazar - Ecommarce webiste single vendor</a> </br>
-2. <a href="https://gym.tauseedzaman.com/">Gym management system</a></br>
-3. <a href="https://classifiedads.tauseedzaman.com/">Classified ads website - listed to ads</a></br>
-4. <a href="https://biblealert.org/">Bible alert - website and app - show quotes from bible</a></br>
-5. <a href="https://cone24.net/">Cone24 - website and app - Ecommarce website multi vendor </a></br>
-6. <a href="https://wholesale.tauseedzaman.com">Wholesale - Ecommarce website b2b</a></br>
-7. <a href="https://codhubb.com/">Codhubb - web development agency website</a></br>
-8. <a href="https://neurafin.tauseedzaman.com/">Neurafin - Middle person to send money from on bank to another</a></br>
-9. <a href="https://swer3lotto.com/"> swer3lotto - bitting mobile and iso app - i buid api</a></br>
-10. <a href="https://www.admin.boindo.com/">Boindo - Song app - i build api </a> </a></br>
+ 1. <a href="https://onlinebazar.tauseedzaman.com/">Online Bazar - Ecommarce webiste single vendor</a> </br>
+ 2. <a href="https://gym.tauseedzaman.com/">Gym management system</a></br>
+ 3. <a href="https://classifiedads.tauseedzaman.com/">Classified ads website - listed to ads</a></br>
+ 4. <a href="https://biblealert.org/">Bible alert - website and app - show quotes from bible</a></br>
+ 5. <a href="https://cone24.net/">Cone24 - website and app - Ecommarce website multi vendor </a></br>
+ 6. <a href="https://wholesale.tauseedzaman.com">Wholesale - Ecommarce website b2b</a></br>
+ 7. <a href="https://codhubb.com/">Codhubb - web development agency website</a></br>
+ 8. <a href="https://neurafin.tauseedzaman.com/">Neurafin - Middle person to send money from on bank to another</a></br>
+ 9. <a href="https://swer3lotto.com/"> swer3lotto - bitting mobile and iso app - i buid api</a></br>
+ 10. <a href="https://www.admin.boindo.com/">Boindo - Song app - i build api </a> </a></br>
+ 11. <a href="https://crm.devitcity.com/"> Module Crm Admin pannel </a></br>
+ 12. <a href="https://blizz.devitcity.com/">Blizz Quiz webstie and admin pannel</a> </br>
+ 13. <a href="https://yapoapis.devitcity.com/">Yapo Website and App</a></br>
+ 14. <a href="https://pillojobfinder.devitcity.com/">Pillo Job Finder</a></br>
+ 15. <a href="https://pilloadmin.devitcity.com/">Pillo Job Finder Admin pannel</a></br>
+ 16. <a href="https://sklive.yiyachatpk.com/login">Movie admin pannel and Mobile App</a></br>
+ 17. <a href="https://betfastwallet.com/">BetFastWallet Apis</a></br>
+
    
